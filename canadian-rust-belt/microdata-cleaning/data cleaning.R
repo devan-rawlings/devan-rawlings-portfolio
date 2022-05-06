@@ -1,3 +1,7 @@
+#! data cleaning.R
+## This script reads in and cleans Canadian Census of Population PUMFs (2001, 2006, 2011, 2016) for use in the paper's 'NOC set' analysis. 
+## The PUMF Individuals files are not available in this repository for licensing and size reasons -- they are available through the Statistics Canada Open License.
+
 library(dplyr)
 library(readstata13)
 library(foreach)
