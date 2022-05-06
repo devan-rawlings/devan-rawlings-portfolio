@@ -1,6 +1,6 @@
 #! Data Analysis Main Results.R
-## This script constructs a few variables for regression analysis, then runs all regressions on the 'NOC set,' including the main regressions,
-## identification tests and robustness checks.
+## This script constructs a few variables for regression analysis, then runs all regressions on the 'NOC set,' including the main regressions and
+## identification tests.
 
 library(dplyr)
 library(readstata13)
