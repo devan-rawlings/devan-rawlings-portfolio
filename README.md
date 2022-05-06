@@ -27,5 +27,5 @@ This paper draws from US CPS microdata and OxGRT COVID-19 restriction stringency
 job vacancy rates and labor tightness at the state level over the full 2020-2021 period. All of my analysis is complete and present on this repo; however,
 the paper is currently in the drafting phase. Thus, only a brief proposal for the project is available on my website.
 
-If you would like to reach out to ask questions about these projects or collaborate on a new project, you can reach me by email:
+If you would like to reach out to ask questions about these projects or collaborate on a new project, feel free to send me an email:
 devan.rawlings@gmail.com
