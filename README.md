@@ -5,6 +5,7 @@ A few of the corresponding research papers are available on my website: http://w
 Available Projects:
 
 1. canadian-rust-belt
+
 This project contains all data cleaning, construction and analysis for my M.A. thesis, 
 "Interrogating the Canadian Rust Belt: The Impacts of Manufacturing Decline on Labor Oucomes in the Twenty-First Century."
 
@@ -19,6 +20,7 @@ and identify the occupations and subindustries that explain most of the damage t
 The corresponding paper is available on my website.
 
 2. covid-restriction-labor
+
 This project contains all data cleaning and analysis for my current independent project.
 
 This paper draws from US CPS microdata and OxGRT COVID-19 restriction stringency data to estimate the impact of restriction stringency on unemployment rates,
