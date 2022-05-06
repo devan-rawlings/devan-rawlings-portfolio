@@ -1,0 +1,1225 @@
+﻿,code,state,period,partisan
+1,1,Alabama,20-Jan,R
+2,1,Alabama,20-Feb,R
+3,1,Alabama,20-Mar,R
+4,1,Alabama,20-Apr,R
+5,1,Alabama,20-May,R
+6,1,Alabama,20-Jun,R
+7,1,Alabama,20-Jul,R
+8,1,Alabama,20-Aug,R
+9,1,Alabama,20-Sep,R
+10,1,Alabama,20-Oct,R
+11,1,Alabama,20-Nov,R
+12,1,Alabama,20-Dec,R
+13,1,Alabama,21-Jan,R
+14,1,Alabama,21-Feb,R
+15,1,Alabama,21-Mar,R
+16,1,Alabama,21-Apr,R
+17,1,Alabama,21-May,R
+18,1,Alabama,21-Jun,R
+19,1,Alabama,21-Jul,R
+20,1,Alabama,21-Aug,R
+21,1,Alabama,21-Sep,R
+22,1,Alabama,21-Oct,R
+23,1,Alabama,21-Nov,R
+24,1,Alabama,21-Dec,R
+25,2,Alaska,20-Jan,R
+26,2,Alaska,20-Feb,R
+27,2,Alaska,20-Mar,R
+28,2,Alaska,20-Apr,R
+29,2,Alaska,20-May,R
+30,2,Alaska,20-Jun,R
+31,2,Alaska,20-Jul,R
+32,2,Alaska,20-Aug,R
+33,2,Alaska,20-Sep,R
+34,2,Alaska,20-Oct,R
+35,2,Alaska,20-Nov,R
+36,2,Alaska,20-Dec,R
+37,2,Alaska,21-Jan,R
+38,2,Alaska,21-Feb,R
+39,2,Alaska,21-Mar,R
+40,2,Alaska,21-Apr,R
+41,2,Alaska,21-May,R
+42,2,Alaska,21-Jun,R
+43,2,Alaska,21-Jul,R
+44,2,Alaska,21-Aug,R
+45,2,Alaska,21-Sep,R
+46,2,Alaska,21-Oct,R
+47,2,Alaska,21-Nov,R
+48,2,Alaska,21-Dec,R
+49,3,Arizona,20-Jan,R
+50,3,Arizona,20-Feb,R
+51,3,Arizona,20-Mar,R
+52,3,Arizona,20-Apr,R
+53,3,Arizona,20-May,R
+54,3,Arizona,20-Jun,R
+55,3,Arizona,20-Jul,R
+56,3,Arizona,20-Aug,R
+57,3,Arizona,20-Sep,R
+58,3,Arizona,20-Oct,R
+59,3,Arizona,20-Nov,R
+60,3,Arizona,20-Dec,R
+61,3,Arizona,21-Jan,R
+62,3,Arizona,21-Feb,R
+63,3,Arizona,21-Mar,R
+64,3,Arizona,21-Apr,R
+65,3,Arizona,21-May,R
+66,3,Arizona,21-Jun,R
+67,3,Arizona,21-Jul,R
+68,3,Arizona,21-Aug,R
+69,3,Arizona,21-Sep,R
+70,3,Arizona,21-Oct,R
+71,3,Arizona,21-Nov,R
+72,3,Arizona,21-Dec,R
+73,4,Arkansas,20-Jan,R
+74,4,Arkansas,20-Feb,R
+75,4,Arkansas,20-Mar,R
+76,4,Arkansas,20-Apr,R
+77,4,Arkansas,20-May,R
+78,4,Arkansas,20-Jun,R
+79,4,Arkansas,20-Jul,R
+80,4,Arkansas,20-Aug,R
+81,4,Arkansas,20-Sep,R
+82,4,Arkansas,20-Oct,R
+83,4,Arkansas,20-Nov,R
+84,4,Arkansas,20-Dec,R
+85,4,Arkansas,21-Jan,R
+86,4,Arkansas,21-Feb,R
+87,4,Arkansas,21-Mar,R
+88,4,Arkansas,21-Apr,R
+89,4,Arkansas,21-May,R
+90,4,Arkansas,21-Jun,R
+91,4,Arkansas,21-Jul,R
+92,4,Arkansas,21-Aug,R
+93,4,Arkansas,21-Sep,R
+94,4,Arkansas,21-Oct,R
+95,4,Arkansas,21-Nov,R
+96,4,Arkansas,21-Dec,R
+97,5,California,20-Jan,D
+98,5,California,20-Feb,D
+99,5,California,20-Mar,D
+100,5,California,20-Apr,D
+101,5,California,20-May,D
+102,5,California,20-Jun,D
+103,5,California,20-Jul,D
+104,5,California,20-Aug,D
+105,5,California,20-Sep,D
+106,5,California,20-Oct,D
+107,5,California,20-Nov,D
+108,5,California,20-Dec,D
+109,5,California,21-Jan,D
+110,5,California,21-Feb,D
+111,5,California,21-Mar,D
+112,5,California,21-Apr,D
+113,5,California,21-May,D
+114,5,California,21-Jun,D
+115,5,California,21-Jul,D
+116,5,California,21-Aug,D
+117,5,California,21-Sep,D
+118,5,California,21-Oct,D
+119,5,California,21-Nov,D
+120,5,California,21-Dec,D
+121,6,Colorado,20-Jan,D
+122,6,Colorado,20-Feb,D
+123,6,Colorado,20-Mar,D
+124,6,Colorado,20-Apr,D
+125,6,Colorado,20-May,D
+126,6,Colorado,20-Jun,D
+127,6,Colorado,20-Jul,D
+128,6,Colorado,20-Aug,D
+129,6,Colorado,20-Sep,D
+130,6,Colorado,20-Oct,D
+131,6,Colorado,20-Nov,D
+132,6,Colorado,20-Dec,D
+133,6,Colorado,21-Jan,D
+134,6,Colorado,21-Feb,D
+135,6,Colorado,21-Mar,D
+136,6,Colorado,21-Apr,D
+137,6,Colorado,21-May,D
+138,6,Colorado,21-Jun,D
+139,6,Colorado,21-Jul,D
+140,6,Colorado,21-Aug,D
+141,6,Colorado,21-Sep,D
+142,6,Colorado,21-Oct,D
+143,6,Colorado,21-Nov,D
+144,6,Colorado,21-Dec,D
+145,7,Connecticut,20-Jan,D
+146,7,Connecticut,20-Feb,D
+147,7,Connecticut,20-Mar,D
+148,7,Connecticut,20-Apr,D
+149,7,Connecticut,20-May,D
+150,7,Connecticut,20-Jun,D
+151,7,Connecticut,20-Jul,D
+152,7,Connecticut,20-Aug,D
+153,7,Connecticut,20-Sep,D
+154,7,Connecticut,20-Oct,D
+155,7,Connecticut,20-Nov,D
+156,7,Connecticut,20-Dec,D
+157,7,Connecticut,21-Jan,D
+158,7,Connecticut,21-Feb,D
+159,7,Connecticut,21-Mar,D
+160,7,Connecticut,21-Apr,D
+161,7,Connecticut,21-May,D
+162,7,Connecticut,21-Jun,D
+163,7,Connecticut,21-Jul,D
+164,7,Connecticut,21-Aug,D
+165,7,Connecticut,21-Sep,D
+166,7,Connecticut,21-Oct,D
+167,7,Connecticut,21-Nov,D
+168,7,Connecticut,21-Dec,D
+169,8,Delaware,20-Jan,D
+170,8,Delaware,20-Feb,D
+171,8,Delaware,20-Mar,D
+172,8,Delaware,20-Apr,D
+173,8,Delaware,20-May,D
+174,8,Delaware,20-Jun,D
+175,8,Delaware,20-Jul,D
+176,8,Delaware,20-Aug,D
+177,8,Delaware,20-Sep,D
+178,8,Delaware,20-Oct,D
+179,8,Delaware,20-Nov,D
+180,8,Delaware,20-Dec,D
+181,8,Delaware,21-Jan,D
+182,8,Delaware,21-Feb,D
+183,8,Delaware,21-Mar,D
+184,8,Delaware,21-Apr,D
+185,8,Delaware,21-May,D
+186,8,Delaware,21-Jun,D
+187,8,Delaware,21-Jul,D
+188,8,Delaware,21-Aug,D
+189,8,Delaware,21-Sep,D
+190,8,Delaware,21-Oct,D
+191,8,Delaware,21-Nov,D
+192,8,Delaware,21-Dec,D
+193,9,DC,20-Jan,D
+194,9,DC,20-Feb,D
+195,9,DC,20-Mar,D
+196,9,DC,20-Apr,D
+197,9,DC,20-May,D
+198,9,DC,20-Jun,D
+199,9,DC,20-Jul,D
+200,9,DC,20-Aug,D
+201,9,DC,20-Sep,D
+202,9,DC,20-Oct,D
+203,9,DC,20-Nov,D
+204,9,DC,20-Dec,D
+205,9,DC,21-Jan,D
+206,9,DC,21-Feb,D
+207,9,DC,21-Mar,D
+208,9,DC,21-Apr,D
+209,9,DC,21-May,D
+210,9,DC,21-Jun,D
+211,9,DC,21-Jul,D
+212,9,DC,21-Aug,D
+213,9,DC,21-Sep,D
+214,9,DC,21-Oct,D
+215,9,DC,21-Nov,D
+216,9,DC,21-Dec,D
+217,10,Florida,20-Jan,R
+218,10,Florida,20-Feb,R
+219,10,Florida,20-Mar,R
+220,10,Florida,20-Apr,R
+221,10,Florida,20-May,R
+222,10,Florida,20-Jun,R
+223,10,Florida,20-Jul,R
+224,10,Florida,20-Aug,R
+225,10,Florida,20-Sep,R
+226,10,Florida,20-Oct,R
+227,10,Florida,20-Nov,R
+228,10,Florida,20-Dec,R
+229,10,Florida,21-Jan,R
+230,10,Florida,21-Feb,R
+231,10,Florida,21-Mar,R
+232,10,Florida,21-Apr,R
+233,10,Florida,21-May,R
+234,10,Florida,21-Jun,R
+235,10,Florida,21-Jul,R
+236,10,Florida,21-Aug,R
+237,10,Florida,21-Sep,R
+238,10,Florida,21-Oct,R
+239,10,Florida,21-Nov,R
+240,10,Florida,21-Dec,R
+241,11,Georgia,20-Jan,R
+242,11,Georgia,20-Feb,R
+243,11,Georgia,20-Mar,R
+244,11,Georgia,20-Apr,R
+245,11,Georgia,20-May,R
+246,11,Georgia,20-Jun,R
+247,11,Georgia,20-Jul,R
+248,11,Georgia,20-Aug,R
+249,11,Georgia,20-Sep,R
+250,11,Georgia,20-Oct,R
+251,11,Georgia,20-Nov,R
+252,11,Georgia,20-Dec,R
+253,11,Georgia,21-Jan,R
+254,11,Georgia,21-Feb,R
+255,11,Georgia,21-Mar,R
+256,11,Georgia,21-Apr,R
+257,11,Georgia,21-May,R
+258,11,Georgia,21-Jun,R
+259,11,Georgia,21-Jul,R
+260,11,Georgia,21-Aug,R
+261,11,Georgia,21-Sep,R
+262,11,Georgia,21-Oct,R
+263,11,Georgia,21-Nov,R
+264,11,Georgia,21-Dec,R
+265,12,Hawaii,20-Jan,D
+266,12,Hawaii,20-Feb,D
+267,12,Hawaii,20-Mar,D
+268,12,Hawaii,20-Apr,D
+269,12,Hawaii,20-May,D
+270,12,Hawaii,20-Jun,D
+271,12,Hawaii,20-Jul,D
+272,12,Hawaii,20-Aug,D
+273,12,Hawaii,20-Sep,D
+274,12,Hawaii,20-Oct,D
+275,12,Hawaii,20-Nov,D
+276,12,Hawaii,20-Dec,D
+277,12,Hawaii,21-Jan,D
+278,12,Hawaii,21-Feb,D
+279,12,Hawaii,21-Mar,D
+280,12,Hawaii,21-Apr,D
+281,12,Hawaii,21-May,D
+282,12,Hawaii,21-Jun,D
+283,12,Hawaii,21-Jul,D
+284,12,Hawaii,21-Aug,D
+285,12,Hawaii,21-Sep,D
+286,12,Hawaii,21-Oct,D
+287,12,Hawaii,21-Nov,D
+288,12,Hawaii,21-Dec,D
+289,13,Idaho,20-Jan,R
+290,13,Idaho,20-Feb,R
+291,13,Idaho,20-Mar,R
+292,13,Idaho,20-Apr,R
+293,13,Idaho,20-May,R
+294,13,Idaho,20-Jun,R
+295,13,Idaho,20-Jul,R
+296,13,Idaho,20-Aug,R
+297,13,Idaho,20-Sep,R
+298,13,Idaho,20-Oct,R
+299,13,Idaho,20-Nov,R
+300,13,Idaho,20-Dec,R
+301,13,Idaho,21-Jan,R
+302,13,Idaho,21-Feb,R
+303,13,Idaho,21-Mar,R
+304,13,Idaho,21-Apr,R
+305,13,Idaho,21-May,R
+306,13,Idaho,21-Jun,R
+307,13,Idaho,21-Jul,R
+308,13,Idaho,21-Aug,R
+309,13,Idaho,21-Sep,R
+310,13,Idaho,21-Oct,R
+311,13,Idaho,21-Nov,R
+312,13,Idaho,21-Dec,R
+313,14,Illinois,20-Jan,D
+314,14,Illinois,20-Feb,D
+315,14,Illinois,20-Mar,D
+316,14,Illinois,20-Apr,D
+317,14,Illinois,20-May,D
+318,14,Illinois,20-Jun,D
+319,14,Illinois,20-Jul,D
+320,14,Illinois,20-Aug,D
+321,14,Illinois,20-Sep,D
+322,14,Illinois,20-Oct,D
+323,14,Illinois,20-Nov,D
+324,14,Illinois,20-Dec,D
+325,14,Illinois,21-Jan,D
+326,14,Illinois,21-Feb,D
+327,14,Illinois,21-Mar,D
+328,14,Illinois,21-Apr,D
+329,14,Illinois,21-May,D
+330,14,Illinois,21-Jun,D
+331,14,Illinois,21-Jul,D
+332,14,Illinois,21-Aug,D
+333,14,Illinois,21-Sep,D
+334,14,Illinois,21-Oct,D
+335,14,Illinois,21-Nov,D
+336,14,Illinois,21-Dec,D
+337,15,Indiana,20-Jan,R
+338,15,Indiana,20-Feb,R
+339,15,Indiana,20-Mar,R
+340,15,Indiana,20-Apr,R
+341,15,Indiana,20-May,R
+342,15,Indiana,20-Jun,R
+343,15,Indiana,20-Jul,R
+344,15,Indiana,20-Aug,R
+345,15,Indiana,20-Sep,R
+346,15,Indiana,20-Oct,R
+347,15,Indiana,20-Nov,R
+348,15,Indiana,20-Dec,R
+349,15,Indiana,21-Jan,R
+350,15,Indiana,21-Feb,R
+351,15,Indiana,21-Mar,R
+352,15,Indiana,21-Apr,R
+353,15,Indiana,21-May,R
+354,15,Indiana,21-Jun,R
+355,15,Indiana,21-Jul,R
+356,15,Indiana,21-Aug,R
+357,15,Indiana,21-Sep,R
+358,15,Indiana,21-Oct,R
+359,15,Indiana,21-Nov,R
+360,15,Indiana,21-Dec,R
+361,16,Iowa,20-Jan,R
+362,16,Iowa,20-Feb,R
+363,16,Iowa,20-Mar,R
+364,16,Iowa,20-Apr,R
+365,16,Iowa,20-May,R
+366,16,Iowa,20-Jun,R
+367,16,Iowa,20-Jul,R
+368,16,Iowa,20-Aug,R
+369,16,Iowa,20-Sep,R
+370,16,Iowa,20-Oct,R
+371,16,Iowa,20-Nov,R
+372,16,Iowa,20-Dec,R
+373,16,Iowa,21-Jan,R
+374,16,Iowa,21-Feb,R
+375,16,Iowa,21-Mar,R
+376,16,Iowa,21-Apr,R
+377,16,Iowa,21-May,R
+378,16,Iowa,21-Jun,R
+379,16,Iowa,21-Jul,R
+380,16,Iowa,21-Aug,R
+381,16,Iowa,21-Sep,R
+382,16,Iowa,21-Oct,R
+383,16,Iowa,21-Nov,R
+384,16,Iowa,21-Dec,R
+385,17,Kansas,20-Jan,D
+386,17,Kansas,20-Feb,D
+387,17,Kansas,20-Mar,D
+388,17,Kansas,20-Apr,D
+389,17,Kansas,20-May,D
+390,17,Kansas,20-Jun,D
+391,17,Kansas,20-Jul,D
+392,17,Kansas,20-Aug,D
+393,17,Kansas,20-Sep,D
+394,17,Kansas,20-Oct,D
+395,17,Kansas,20-Nov,D
+396,17,Kansas,20-Dec,D
+397,17,Kansas,21-Jan,D
+398,17,Kansas,21-Feb,D
+399,17,Kansas,21-Mar,D
+400,17,Kansas,21-Apr,D
+401,17,Kansas,21-May,D
+402,17,Kansas,21-Jun,D
+403,17,Kansas,21-Jul,D
+404,17,Kansas,21-Aug,D
+405,17,Kansas,21-Sep,D
+406,17,Kansas,21-Oct,D
+407,17,Kansas,21-Nov,D
+408,17,Kansas,21-Dec,D
+409,18,Kentucky,20-Jan,D
+410,18,Kentucky,20-Feb,D
+411,18,Kentucky,20-Mar,D
+412,18,Kentucky,20-Apr,D
+413,18,Kentucky,20-May,D
+414,18,Kentucky,20-Jun,D
+415,18,Kentucky,20-Jul,D
+416,18,Kentucky,20-Aug,D
+417,18,Kentucky,20-Sep,D
+418,18,Kentucky,20-Oct,D
+419,18,Kentucky,20-Nov,D
+420,18,Kentucky,20-Dec,D
+421,18,Kentucky,21-Jan,D
+422,18,Kentucky,21-Feb,D
+423,18,Kentucky,21-Mar,D
+424,18,Kentucky,21-Apr,D
+425,18,Kentucky,21-May,D
+426,18,Kentucky,21-Jun,D
+427,18,Kentucky,21-Jul,D
+428,18,Kentucky,21-Aug,D
+429,18,Kentucky,21-Sep,D
+430,18,Kentucky,21-Oct,D
+431,18,Kentucky,21-Nov,D
+432,18,Kentucky,21-Dec,D
+433,19,Louisiana,20-Jan,D
+434,19,Louisiana,20-Feb,D
+435,19,Louisiana,20-Mar,D
+436,19,Louisiana,20-Apr,D
+437,19,Louisiana,20-May,D
+438,19,Louisiana,20-Jun,D
+439,19,Louisiana,20-Jul,D
+440,19,Louisiana,20-Aug,D
+441,19,Louisiana,20-Sep,D
+442,19,Louisiana,20-Oct,D
+443,19,Louisiana,20-Nov,D
+444,19,Louisiana,20-Dec,D
+445,19,Louisiana,21-Jan,D
+446,19,Louisiana,21-Feb,D
+447,19,Louisiana,21-Mar,D
+448,19,Louisiana,21-Apr,D
+449,19,Louisiana,21-May,D
+450,19,Louisiana,21-Jun,D
+451,19,Louisiana,21-Jul,D
+452,19,Louisiana,21-Aug,D
+453,19,Louisiana,21-Sep,D
+454,19,Louisiana,21-Oct,D
+455,19,Louisiana,21-Nov,D
+456,19,Louisiana,21-Dec,D
+457,20,Maine,20-Jan,D
+458,20,Maine,20-Feb,D
+459,20,Maine,20-Mar,D
+460,20,Maine,20-Apr,D
+461,20,Maine,20-May,D
+462,20,Maine,20-Jun,D
+463,20,Maine,20-Jul,D
+464,20,Maine,20-Aug,D
+465,20,Maine,20-Sep,D
+466,20,Maine,20-Oct,D
+467,20,Maine,20-Nov,D
+468,20,Maine,20-Dec,D
+469,20,Maine,21-Jan,D
+470,20,Maine,21-Feb,D
+471,20,Maine,21-Mar,D
+472,20,Maine,21-Apr,D
+473,20,Maine,21-May,D
+474,20,Maine,21-Jun,D
+475,20,Maine,21-Jul,D
+476,20,Maine,21-Aug,D
+477,20,Maine,21-Sep,D
+478,20,Maine,21-Oct,D
+479,20,Maine,21-Nov,D
+480,20,Maine,21-Dec,D
+481,21,Maryland,20-Jan,R
+482,21,Maryland,20-Feb,R
+483,21,Maryland,20-Mar,R
+484,21,Maryland,20-Apr,R
+485,21,Maryland,20-May,R
+486,21,Maryland,20-Jun,R
+487,21,Maryland,20-Jul,R
+488,21,Maryland,20-Aug,R
+489,21,Maryland,20-Sep,R
+490,21,Maryland,20-Oct,R
+491,21,Maryland,20-Nov,R
+492,21,Maryland,20-Dec,R
+493,21,Maryland,21-Jan,R
+494,21,Maryland,21-Feb,R
+495,21,Maryland,21-Mar,R
+496,21,Maryland,21-Apr,R
+497,21,Maryland,21-May,R
+498,21,Maryland,21-Jun,R
+499,21,Maryland,21-Jul,R
+500,21,Maryland,21-Aug,R
+501,21,Maryland,21-Sep,R
+502,21,Maryland,21-Oct,R
+503,21,Maryland,21-Nov,R
+504,21,Maryland,21-Dec,R
+505,22,Massachusetts,20-Jan,R
+506,22,Massachusetts,20-Feb,R
+507,22,Massachusetts,20-Mar,R
+508,22,Massachusetts,20-Apr,R
+509,22,Massachusetts,20-May,R
+510,22,Massachusetts,20-Jun,R
+511,22,Massachusetts,20-Jul,R
+512,22,Massachusetts,20-Aug,R
+513,22,Massachusetts,20-Sep,R
+514,22,Massachusetts,20-Oct,R
+515,22,Massachusetts,20-Nov,R
+516,22,Massachusetts,20-Dec,R
+517,22,Massachusetts,21-Jan,R
+518,22,Massachusetts,21-Feb,R
+519,22,Massachusetts,21-Mar,R
+520,22,Massachusetts,21-Apr,R
+521,22,Massachusetts,21-May,R
+522,22,Massachusetts,21-Jun,R
+523,22,Massachusetts,21-Jul,R
+524,22,Massachusetts,21-Aug,R
+525,22,Massachusetts,21-Sep,R
+526,22,Massachusetts,21-Oct,R
+527,22,Massachusetts,21-Nov,R
+528,22,Massachusetts,21-Dec,R
+529,23,Michigan,20-Jan,D
+530,23,Michigan,20-Feb,D
+531,23,Michigan,20-Mar,D
+532,23,Michigan,20-Apr,D
+533,23,Michigan,20-May,D
+534,23,Michigan,20-Jun,D
+535,23,Michigan,20-Jul,D
+536,23,Michigan,20-Aug,D
+537,23,Michigan,20-Sep,D
+538,23,Michigan,20-Oct,D
+539,23,Michigan,20-Nov,D
+540,23,Michigan,20-Dec,D
+541,23,Michigan,21-Jan,D
+542,23,Michigan,21-Feb,D
+543,23,Michigan,21-Mar,D
+544,23,Michigan,21-Apr,D
+545,23,Michigan,21-May,D
+546,23,Michigan,21-Jun,D
+547,23,Michigan,21-Jul,D
+548,23,Michigan,21-Aug,D
+549,23,Michigan,21-Sep,D
+550,23,Michigan,21-Oct,D
+551,23,Michigan,21-Nov,D
+552,23,Michigan,21-Dec,D
+553,24,Minnesota,20-Jan,D
+554,24,Minnesota,20-Feb,D
+555,24,Minnesota,20-Mar,D
+556,24,Minnesota,20-Apr,D
+557,24,Minnesota,20-May,D
+558,24,Minnesota,20-Jun,D
+559,24,Minnesota,20-Jul,D
+560,24,Minnesota,20-Aug,D
+561,24,Minnesota,20-Sep,D
+562,24,Minnesota,20-Oct,D
+563,24,Minnesota,20-Nov,D
+564,24,Minnesota,20-Dec,D
+565,24,Minnesota,21-Jan,D
+566,24,Minnesota,21-Feb,D
+567,24,Minnesota,21-Mar,D
+568,24,Minnesota,21-Apr,D
+569,24,Minnesota,21-May,D
+570,24,Minnesota,21-Jun,D
+571,24,Minnesota,21-Jul,D
+572,24,Minnesota,21-Aug,D
+573,24,Minnesota,21-Sep,D
+574,24,Minnesota,21-Oct,D
+575,24,Minnesota,21-Nov,D
+576,24,Minnesota,21-Dec,D
+577,25,Mississippi,20-Jan,R
+578,25,Mississippi,20-Feb,R
+579,25,Mississippi,20-Mar,R
+580,25,Mississippi,20-Apr,R
+581,25,Mississippi,20-May,R
+582,25,Mississippi,20-Jun,R
+583,25,Mississippi,20-Jul,R
+584,25,Mississippi,20-Aug,R
+585,25,Mississippi,20-Sep,R
+586,25,Mississippi,20-Oct,R
+587,25,Mississippi,20-Nov,R
+588,25,Mississippi,20-Dec,R
+589,25,Mississippi,21-Jan,R
+590,25,Mississippi,21-Feb,R
+591,25,Mississippi,21-Mar,R
+592,25,Mississippi,21-Apr,R
+593,25,Mississippi,21-May,R
+594,25,Mississippi,21-Jun,R
+595,25,Mississippi,21-Jul,R
+596,25,Mississippi,21-Aug,R
+597,25,Mississippi,21-Sep,R
+598,25,Mississippi,21-Oct,R
+599,25,Mississippi,21-Nov,R
+600,25,Mississippi,21-Dec,R
+601,26,Missouri,20-Jan,R
+602,26,Missouri,20-Feb,R
+603,26,Missouri,20-Mar,R
+604,26,Missouri,20-Apr,R
+605,26,Missouri,20-May,R
+606,26,Missouri,20-Jun,R
+607,26,Missouri,20-Jul,R
+608,26,Missouri,20-Aug,R
+609,26,Missouri,20-Sep,R
+610,26,Missouri,20-Oct,R
+611,26,Missouri,20-Nov,R
+612,26,Missouri,20-Dec,R
+613,26,Missouri,21-Jan,R
+614,26,Missouri,21-Feb,R
+615,26,Missouri,21-Mar,R
+616,26,Missouri,21-Apr,R
+617,26,Missouri,21-May,R
+618,26,Missouri,21-Jun,R
+619,26,Missouri,21-Jul,R
+620,26,Missouri,21-Aug,R
+621,26,Missouri,21-Sep,R
+622,26,Missouri,21-Oct,R
+623,26,Missouri,21-Nov,R
+624,26,Missouri,21-Dec,R
+625,27,Montana,20-Jan,D
+626,27,Montana,20-Feb,D
+627,27,Montana,20-Mar,D
+628,27,Montana,20-Apr,D
+629,27,Montana,20-May,D
+630,27,Montana,20-Jun,D
+631,27,Montana,20-Jul,D
+632,27,Montana,20-Aug,D
+633,27,Montana,20-Sep,D
+634,27,Montana,20-Oct,D
+635,27,Montana,20-Nov,D
+636,27,Montana,20-Dec,D
+637,27,Montana,21-Jan,R
+638,27,Montana,21-Feb,R
+639,27,Montana,21-Mar,R
+640,27,Montana,21-Apr,R
+641,27,Montana,21-May,R
+642,27,Montana,21-Jun,R
+643,27,Montana,21-Jul,R
+644,27,Montana,21-Aug,R
+645,27,Montana,21-Sep,R
+646,27,Montana,21-Oct,R
+647,27,Montana,21-Nov,R
+648,27,Montana,21-Dec,R
+649,28,Nebraska,20-Jan,R
+650,28,Nebraska,20-Feb,R
+651,28,Nebraska,20-Mar,R
+652,28,Nebraska,20-Apr,R
+653,28,Nebraska,20-May,R
+654,28,Nebraska,20-Jun,R
+655,28,Nebraska,20-Jul,R
+656,28,Nebraska,20-Aug,R
+657,28,Nebraska,20-Sep,R
+658,28,Nebraska,20-Oct,R
+659,28,Nebraska,20-Nov,R
+660,28,Nebraska,20-Dec,R
+661,28,Nebraska,21-Jan,R
+662,28,Nebraska,21-Feb,R
+663,28,Nebraska,21-Mar,R
+664,28,Nebraska,21-Apr,R
+665,28,Nebraska,21-May,R
+666,28,Nebraska,21-Jun,R
+667,28,Nebraska,21-Jul,R
+668,28,Nebraska,21-Aug,R
+669,28,Nebraska,21-Sep,R
+670,28,Nebraska,21-Oct,R
+671,28,Nebraska,21-Nov,R
+672,28,Nebraska,21-Dec,R
+673,29,Nevada,20-Jan,D
+674,29,Nevada,20-Feb,D
+675,29,Nevada,20-Mar,D
+676,29,Nevada,20-Apr,D
+677,29,Nevada,20-May,D
+678,29,Nevada,20-Jun,D
+679,29,Nevada,20-Jul,D
+680,29,Nevada,20-Aug,D
+681,29,Nevada,20-Sep,D
+682,29,Nevada,20-Oct,D
+683,29,Nevada,20-Nov,D
+684,29,Nevada,20-Dec,D
+685,29,Nevada,21-Jan,D
+686,29,Nevada,21-Feb,D
+687,29,Nevada,21-Mar,D
+688,29,Nevada,21-Apr,D
+689,29,Nevada,21-May,D
+690,29,Nevada,21-Jun,D
+691,29,Nevada,21-Jul,D
+692,29,Nevada,21-Aug,D
+693,29,Nevada,21-Sep,D
+694,29,Nevada,21-Oct,D
+695,29,Nevada,21-Nov,D
+696,29,Nevada,21-Dec,D
+697,30,New Hampshire,20-Jan,R
+698,30,New Hampshire,20-Feb,R
+699,30,New Hampshire,20-Mar,R
+700,30,New Hampshire,20-Apr,R
+701,30,New Hampshire,20-May,R
+702,30,New Hampshire,20-Jun,R
+703,30,New Hampshire,20-Jul,R
+704,30,New Hampshire,20-Aug,R
+705,30,New Hampshire,20-Sep,R
+706,30,New Hampshire,20-Oct,R
+707,30,New Hampshire,20-Nov,R
+708,30,New Hampshire,20-Dec,R
+709,30,New Hampshire,21-Jan,R
+710,30,New Hampshire,21-Feb,R
+711,30,New Hampshire,21-Mar,R
+712,30,New Hampshire,21-Apr,R
+713,30,New Hampshire,21-May,R
+714,30,New Hampshire,21-Jun,R
+715,30,New Hampshire,21-Jul,R
+716,30,New Hampshire,21-Aug,R
+717,30,New Hampshire,21-Sep,R
+718,30,New Hampshire,21-Oct,R
+719,30,New Hampshire,21-Nov,R
+720,30,New Hampshire,21-Dec,R
+721,31,New Jersey,20-Jan,D
+722,31,New Jersey,20-Feb,D
+723,31,New Jersey,20-Mar,D
+724,31,New Jersey,20-Apr,D
+725,31,New Jersey,20-May,D
+726,31,New Jersey,20-Jun,D
+727,31,New Jersey,20-Jul,D
+728,31,New Jersey,20-Aug,D
+729,31,New Jersey,20-Sep,D
+730,31,New Jersey,20-Oct,D
+731,31,New Jersey,20-Nov,D
+732,31,New Jersey,20-Dec,D
+733,31,New Jersey,21-Jan,D
+734,31,New Jersey,21-Feb,D
+735,31,New Jersey,21-Mar,D
+736,31,New Jersey,21-Apr,D
+737,31,New Jersey,21-May,D
+738,31,New Jersey,21-Jun,D
+739,31,New Jersey,21-Jul,D
+740,31,New Jersey,21-Aug,D
+741,31,New Jersey,21-Sep,D
+742,31,New Jersey,21-Oct,D
+743,31,New Jersey,21-Nov,D
+744,31,New Jersey,21-Dec,D
+745,32,New Mexico,20-Jan,D
+746,32,New Mexico,20-Feb,D
+747,32,New Mexico,20-Mar,D
+748,32,New Mexico,20-Apr,D
+749,32,New Mexico,20-May,D
+750,32,New Mexico,20-Jun,D
+751,32,New Mexico,20-Jul,D
+752,32,New Mexico,20-Aug,D
+753,32,New Mexico,20-Sep,D
+754,32,New Mexico,20-Oct,D
+755,32,New Mexico,20-Nov,D
+756,32,New Mexico,20-Dec,D
+757,32,New Mexico,21-Jan,D
+758,32,New Mexico,21-Feb,D
+759,32,New Mexico,21-Mar,D
+760,32,New Mexico,21-Apr,D
+761,32,New Mexico,21-May,D
+762,32,New Mexico,21-Jun,D
+763,32,New Mexico,21-Jul,D
+764,32,New Mexico,21-Aug,D
+765,32,New Mexico,21-Sep,D
+766,32,New Mexico,21-Oct,D
+767,32,New Mexico,21-Nov,D
+768,32,New Mexico,21-Dec,D
+769,33,New York,20-Jan,D
+770,33,New York,20-Feb,D
+771,33,New York,20-Mar,D
+772,33,New York,20-Apr,D
+773,33,New York,20-May,D
+774,33,New York,20-Jun,D
+775,33,New York,20-Jul,D
+776,33,New York,20-Aug,D
+777,33,New York,20-Sep,D
+778,33,New York,20-Oct,D
+779,33,New York,20-Nov,D
+780,33,New York,20-Dec,D
+781,33,New York,21-Jan,D
+782,33,New York,21-Feb,D
+783,33,New York,21-Mar,D
+784,33,New York,21-Apr,D
+785,33,New York,21-May,D
+786,33,New York,21-Jun,D
+787,33,New York,21-Jul,D
+788,33,New York,21-Aug,D
+789,33,New York,21-Sep,D
+790,33,New York,21-Oct,D
+791,33,New York,21-Nov,D
+792,33,New York,21-Dec,D
+793,34,North Carolina,20-Jan,D
+794,34,North Carolina,20-Feb,D
+795,34,North Carolina,20-Mar,D
+796,34,North Carolina,20-Apr,D
+797,34,North Carolina,20-May,D
+798,34,North Carolina,20-Jun,D
+799,34,North Carolina,20-Jul,D
+800,34,North Carolina,20-Aug,D
+801,34,North Carolina,20-Sep,D
+802,34,North Carolina,20-Oct,D
+803,34,North Carolina,20-Nov,D
+804,34,North Carolina,20-Dec,D
+805,34,North Carolina,21-Jan,D
+806,34,North Carolina,21-Feb,D
+807,34,North Carolina,21-Mar,D
+808,34,North Carolina,21-Apr,D
+809,34,North Carolina,21-May,D
+810,34,North Carolina,21-Jun,D
+811,34,North Carolina,21-Jul,D
+812,34,North Carolina,21-Aug,D
+813,34,North Carolina,21-Sep,D
+814,34,North Carolina,21-Oct,D
+815,34,North Carolina,21-Nov,D
+816,34,North Carolina,21-Dec,D
+817,35,North Dakota,20-Jan,R
+818,35,North Dakota,20-Feb,R
+819,35,North Dakota,20-Mar,R
+820,35,North Dakota,20-Apr,R
+821,35,North Dakota,20-May,R
+822,35,North Dakota,20-Jun,R
+823,35,North Dakota,20-Jul,R
+824,35,North Dakota,20-Aug,R
+825,35,North Dakota,20-Sep,R
+826,35,North Dakota,20-Oct,R
+827,35,North Dakota,20-Nov,R
+828,35,North Dakota,20-Dec,R
+829,35,North Dakota,21-Jan,R
+830,35,North Dakota,21-Feb,R
+831,35,North Dakota,21-Mar,R
+832,35,North Dakota,21-Apr,R
+833,35,North Dakota,21-May,R
+834,35,North Dakota,21-Jun,R
+835,35,North Dakota,21-Jul,R
+836,35,North Dakota,21-Aug,R
+837,35,North Dakota,21-Sep,R
+838,35,North Dakota,21-Oct,R
+839,35,North Dakota,21-Nov,R
+840,35,North Dakota,21-Dec,R
+841,36,Ohio,20-Jan,R
+842,36,Ohio,20-Feb,R
+843,36,Ohio,20-Mar,R
+844,36,Ohio,20-Apr,R
+845,36,Ohio,20-May,R
+846,36,Ohio,20-Jun,R
+847,36,Ohio,20-Jul,R
+848,36,Ohio,20-Aug,R
+849,36,Ohio,20-Sep,R
+850,36,Ohio,20-Oct,R
+851,36,Ohio,20-Nov,R
+852,36,Ohio,20-Dec,R
+853,36,Ohio,21-Jan,R
+854,36,Ohio,21-Feb,R
+855,36,Ohio,21-Mar,R
+856,36,Ohio,21-Apr,R
+857,36,Ohio,21-May,R
+858,36,Ohio,21-Jun,R
+859,36,Ohio,21-Jul,R
+860,36,Ohio,21-Aug,R
+861,36,Ohio,21-Sep,R
+862,36,Ohio,21-Oct,R
+863,36,Ohio,21-Nov,R
+864,36,Ohio,21-Dec,R
+865,37,Oklahoma,20-Jan,R
+866,37,Oklahoma,20-Feb,R
+867,37,Oklahoma,20-Mar,R
+868,37,Oklahoma,20-Apr,R
+869,37,Oklahoma,20-May,R
+870,37,Oklahoma,20-Jun,R
+871,37,Oklahoma,20-Jul,R
+872,37,Oklahoma,20-Aug,R
+873,37,Oklahoma,20-Sep,R
+874,37,Oklahoma,20-Oct,R
+875,37,Oklahoma,20-Nov,R
+876,37,Oklahoma,20-Dec,R
+877,37,Oklahoma,21-Jan,R
+878,37,Oklahoma,21-Feb,R
+879,37,Oklahoma,21-Mar,R
+880,37,Oklahoma,21-Apr,R
+881,37,Oklahoma,21-May,R
+882,37,Oklahoma,21-Jun,R
+883,37,Oklahoma,21-Jul,R
+884,37,Oklahoma,21-Aug,R
+885,37,Oklahoma,21-Sep,R
+886,37,Oklahoma,21-Oct,R
+887,37,Oklahoma,21-Nov,R
+888,37,Oklahoma,21-Dec,R
+889,38,Oregon,20-Jan,D
+890,38,Oregon,20-Feb,D
+891,38,Oregon,20-Mar,D
+892,38,Oregon,20-Apr,D
+893,38,Oregon,20-May,D
+894,38,Oregon,20-Jun,D
+895,38,Oregon,20-Jul,D
+896,38,Oregon,20-Aug,D
+897,38,Oregon,20-Sep,D
+898,38,Oregon,20-Oct,D
+899,38,Oregon,20-Nov,D
+900,38,Oregon,20-Dec,D
+901,38,Oregon,21-Jan,D
+902,38,Oregon,21-Feb,D
+903,38,Oregon,21-Mar,D
+904,38,Oregon,21-Apr,D
+905,38,Oregon,21-May,D
+906,38,Oregon,21-Jun,D
+907,38,Oregon,21-Jul,D
+908,38,Oregon,21-Aug,D
+909,38,Oregon,21-Sep,D
+910,38,Oregon,21-Oct,D
+911,38,Oregon,21-Nov,D
+912,38,Oregon,21-Dec,D
+913,39,Pennsylvania,20-Jan,D
+914,39,Pennsylvania,20-Feb,D
+915,39,Pennsylvania,20-Mar,D
+916,39,Pennsylvania,20-Apr,D
+917,39,Pennsylvania,20-May,D
+918,39,Pennsylvania,20-Jun,D
+919,39,Pennsylvania,20-Jul,D
+920,39,Pennsylvania,20-Aug,D
+921,39,Pennsylvania,20-Sep,D
+922,39,Pennsylvania,20-Oct,D
+923,39,Pennsylvania,20-Nov,D
+924,39,Pennsylvania,20-Dec,D
+925,39,Pennsylvania,21-Jan,D
+926,39,Pennsylvania,21-Feb,D
+927,39,Pennsylvania,21-Mar,D
+928,39,Pennsylvania,21-Apr,D
+929,39,Pennsylvania,21-May,D
+930,39,Pennsylvania,21-Jun,D
+931,39,Pennsylvania,21-Jul,D
+932,39,Pennsylvania,21-Aug,D
+933,39,Pennsylvania,21-Sep,D
+934,39,Pennsylvania,21-Oct,D
+935,39,Pennsylvania,21-Nov,D
+936,39,Pennsylvania,21-Dec,D
+937,40,Rhode Island,20-Jan,D
+938,40,Rhode Island,20-Feb,D
+939,40,Rhode Island,20-Mar,D
+940,40,Rhode Island,20-Apr,D
+941,40,Rhode Island,20-May,D
+942,40,Rhode Island,20-Jun,D
+943,40,Rhode Island,20-Jul,D
+944,40,Rhode Island,20-Aug,D
+945,40,Rhode Island,20-Sep,D
+946,40,Rhode Island,20-Oct,D
+947,40,Rhode Island,20-Nov,D
+948,40,Rhode Island,20-Dec,D
+949,40,Rhode Island,21-Jan,D
+950,40,Rhode Island,21-Feb,D
+951,40,Rhode Island,21-Mar,D
+952,40,Rhode Island,21-Apr,D
+953,40,Rhode Island,21-May,D
+954,40,Rhode Island,21-Jun,D
+955,40,Rhode Island,21-Jul,D
+956,40,Rhode Island,21-Aug,D
+957,40,Rhode Island,21-Sep,D
+958,40,Rhode Island,21-Oct,D
+959,40,Rhode Island,21-Nov,D
+960,40,Rhode Island,21-Dec,D
+961,41,South Carolina,20-Jan,R
+962,41,South Carolina,20-Feb,R
+963,41,South Carolina,20-Mar,R
+964,41,South Carolina,20-Apr,R
+965,41,South Carolina,20-May,R
+966,41,South Carolina,20-Jun,R
+967,41,South Carolina,20-Jul,R
+968,41,South Carolina,20-Aug,R
+969,41,South Carolina,20-Sep,R
+970,41,South Carolina,20-Oct,R
+971,41,South Carolina,20-Nov,R
+972,41,South Carolina,20-Dec,R
+973,41,South Carolina,21-Jan,R
+974,41,South Carolina,21-Feb,R
+975,41,South Carolina,21-Mar,R
+976,41,South Carolina,21-Apr,R
+977,41,South Carolina,21-May,R
+978,41,South Carolina,21-Jun,R
+979,41,South Carolina,21-Jul,R
+980,41,South Carolina,21-Aug,R
+981,41,South Carolina,21-Sep,R
+982,41,South Carolina,21-Oct,R
+983,41,South Carolina,21-Nov,R
+984,41,South Carolina,21-Dec,R
+985,42,South Dakota,20-Jan,R
+986,42,South Dakota,20-Feb,R
+987,42,South Dakota,20-Mar,R
+988,42,South Dakota,20-Apr,R
+989,42,South Dakota,20-May,R
+990,42,South Dakota,20-Jun,R
+991,42,South Dakota,20-Jul,R
+992,42,South Dakota,20-Aug,R
+993,42,South Dakota,20-Sep,R
+994,42,South Dakota,20-Oct,R
+995,42,South Dakota,20-Nov,R
+996,42,South Dakota,20-Dec,R
+997,42,South Dakota,21-Jan,R
+998,42,South Dakota,21-Feb,R
+999,42,South Dakota,21-Mar,R
+1000,42,South Dakota,21-Apr,R
+1001,42,South Dakota,21-May,R
+1002,42,South Dakota,21-Jun,R
+1003,42,South Dakota,21-Jul,R
+1004,42,South Dakota,21-Aug,R
+1005,42,South Dakota,21-Sep,R
+1006,42,South Dakota,21-Oct,R
+1007,42,South Dakota,21-Nov,R
+1008,42,South Dakota,21-Dec,R
+1009,43,Tennessee,20-Jan,R
+1010,43,Tennessee,20-Feb,R
+1011,43,Tennessee,20-Mar,R
+1012,43,Tennessee,20-Apr,R
+1013,43,Tennessee,20-May,R
+1014,43,Tennessee,20-Jun,R
+1015,43,Tennessee,20-Jul,R
+1016,43,Tennessee,20-Aug,R
+1017,43,Tennessee,20-Sep,R
+1018,43,Tennessee,20-Oct,R
+1019,43,Tennessee,20-Nov,R
+1020,43,Tennessee,20-Dec,R
+1021,43,Tennessee,21-Jan,R
+1022,43,Tennessee,21-Feb,R
+1023,43,Tennessee,21-Mar,R
+1024,43,Tennessee,21-Apr,R
+1025,43,Tennessee,21-May,R
+1026,43,Tennessee,21-Jun,R
+1027,43,Tennessee,21-Jul,R
+1028,43,Tennessee,21-Aug,R
+1029,43,Tennessee,21-Sep,R
+1030,43,Tennessee,21-Oct,R
+1031,43,Tennessee,21-Nov,R
+1032,43,Tennessee,21-Dec,R
+1033,44,Texas,20-Jan,R
+1034,44,Texas,20-Feb,R
+1035,44,Texas,20-Mar,R
+1036,44,Texas,20-Apr,R
+1037,44,Texas,20-May,R
+1038,44,Texas,20-Jun,R
+1039,44,Texas,20-Jul,R
+1040,44,Texas,20-Aug,R
+1041,44,Texas,20-Sep,R
+1042,44,Texas,20-Oct,R
+1043,44,Texas,20-Nov,R
+1044,44,Texas,20-Dec,R
+1045,44,Texas,21-Jan,R
+1046,44,Texas,21-Feb,R
+1047,44,Texas,21-Mar,R
+1048,44,Texas,21-Apr,R
+1049,44,Texas,21-May,R
+1050,44,Texas,21-Jun,R
+1051,44,Texas,21-Jul,R
+1052,44,Texas,21-Aug,R
+1053,44,Texas,21-Sep,R
+1054,44,Texas,21-Oct,R
+1055,44,Texas,21-Nov,R
+1056,44,Texas,21-Dec,R
+1057,45,Utah,20-Jan,R
+1058,45,Utah,20-Feb,R
+1059,45,Utah,20-Mar,R
+1060,45,Utah,20-Apr,R
+1061,45,Utah,20-May,R
+1062,45,Utah,20-Jun,R
+1063,45,Utah,20-Jul,R
+1064,45,Utah,20-Aug,R
+1065,45,Utah,20-Sep,R
+1066,45,Utah,20-Oct,R
+1067,45,Utah,20-Nov,R
+1068,45,Utah,20-Dec,R
+1069,45,Utah,21-Jan,R
+1070,45,Utah,21-Feb,R
+1071,45,Utah,21-Mar,R
+1072,45,Utah,21-Apr,R
+1073,45,Utah,21-May,R
+1074,45,Utah,21-Jun,R
+1075,45,Utah,21-Jul,R
+1076,45,Utah,21-Aug,R
+1077,45,Utah,21-Sep,R
+1078,45,Utah,21-Oct,R
+1079,45,Utah,21-Nov,R
+1080,45,Utah,21-Dec,R
+1081,46,Vermont,20-Jan,R
+1082,46,Vermont,20-Feb,R
+1083,46,Vermont,20-Mar,R
+1084,46,Vermont,20-Apr,R
+1085,46,Vermont,20-May,R
+1086,46,Vermont,20-Jun,R
+1087,46,Vermont,20-Jul,R
+1088,46,Vermont,20-Aug,R
+1089,46,Vermont,20-Sep,R
+1090,46,Vermont,20-Oct,R
+1091,46,Vermont,20-Nov,R
+1092,46,Vermont,20-Dec,R
+1093,46,Vermont,21-Jan,R
+1094,46,Vermont,21-Feb,R
+1095,46,Vermont,21-Mar,R
+1096,46,Vermont,21-Apr,R
+1097,46,Vermont,21-May,R
+1098,46,Vermont,21-Jun,R
+1099,46,Vermont,21-Jul,R
+1100,46,Vermont,21-Aug,R
+1101,46,Vermont,21-Sep,R
+1102,46,Vermont,21-Oct,R
+1103,46,Vermont,21-Nov,R
+1104,46,Vermont,21-Dec,R
+1105,47,Virginia,20-Jan,D
+1106,47,Virginia,20-Feb,D
+1107,47,Virginia,20-Mar,D
+1108,47,Virginia,20-Apr,D
+1109,47,Virginia,20-May,D
+1110,47,Virginia,20-Jun,D
+1111,47,Virginia,20-Jul,D
+1112,47,Virginia,20-Aug,D
+1113,47,Virginia,20-Sep,D
+1114,47,Virginia,20-Oct,D
+1115,47,Virginia,20-Nov,D
+1116,47,Virginia,20-Dec,D
+1117,47,Virginia,21-Jan,D
+1118,47,Virginia,21-Feb,D
+1119,47,Virginia,21-Mar,D
+1120,47,Virginia,21-Apr,D
+1121,47,Virginia,21-May,D
+1122,47,Virginia,21-Jun,D
+1123,47,Virginia,21-Jul,D
+1124,47,Virginia,21-Aug,D
+1125,47,Virginia,21-Sep,D
+1126,47,Virginia,21-Oct,D
+1127,47,Virginia,21-Nov,D
+1128,47,Virginia,21-Dec,D
+1129,48,Washington,20-Jan,D
+1130,48,Washington,20-Feb,D
+1131,48,Washington,20-Mar,D
+1132,48,Washington,20-Apr,D
+1133,48,Washington,20-May,D
+1134,48,Washington,20-Jun,D
+1135,48,Washington,20-Jul,D
+1136,48,Washington,20-Aug,D
+1137,48,Washington,20-Sep,D
+1138,48,Washington,20-Oct,D
+1139,48,Washington,20-Nov,D
+1140,48,Washington,20-Dec,D
+1141,48,Washington,21-Jan,D
+1142,48,Washington,21-Feb,D
+1143,48,Washington,21-Mar,D
+1144,48,Washington,21-Apr,D
+1145,48,Washington,21-May,D
+1146,48,Washington,21-Jun,D
+1147,48,Washington,21-Jul,D
+1148,48,Washington,21-Aug,D
+1149,48,Washington,21-Sep,D
+1150,48,Washington,21-Oct,D
+1151,48,Washington,21-Nov,D
+1152,48,Washington,21-Dec,D
+1153,49,West Virginia,20-Jan,R
+1154,49,West Virginia,20-Feb,R
+1155,49,West Virginia,20-Mar,R
+1156,49,West Virginia,20-Apr,R
+1157,49,West Virginia,20-May,R
+1158,49,West Virginia,20-Jun,R
+1159,49,West Virginia,20-Jul,R
+1160,49,West Virginia,20-Aug,R
+1161,49,West Virginia,20-Sep,R
+1162,49,West Virginia,20-Oct,R
+1163,49,West Virginia,20-Nov,R
+1164,49,West Virginia,20-Dec,R
+1165,49,West Virginia,21-Jan,R
+1166,49,West Virginia,21-Feb,R
+1167,49,West Virginia,21-Mar,R
+1168,49,West Virginia,21-Apr,R
+1169,49,West Virginia,21-May,R
+1170,49,West Virginia,21-Jun,R
+1171,49,West Virginia,21-Jul,R
+1172,49,West Virginia,21-Aug,R
+1173,49,West Virginia,21-Sep,R
+1174,49,West Virginia,21-Oct,R
+1175,49,West Virginia,21-Nov,R
+1176,49,West Virginia,21-Dec,R
+1177,50,Wisconsin,20-Jan,D
+1178,50,Wisconsin,20-Feb,D
+1179,50,Wisconsin,20-Mar,D
+1180,50,Wisconsin,20-Apr,D
+1181,50,Wisconsin,20-May,D
+1182,50,Wisconsin,20-Jun,D
+1183,50,Wisconsin,20-Jul,D
+1184,50,Wisconsin,20-Aug,D
+1185,50,Wisconsin,20-Sep,D
+1186,50,Wisconsin,20-Oct,D
+1187,50,Wisconsin,20-Nov,D
+1188,50,Wisconsin,20-Dec,D
+1189,50,Wisconsin,21-Jan,D
+1190,50,Wisconsin,21-Feb,D
+1191,50,Wisconsin,21-Mar,D
+1192,50,Wisconsin,21-Apr,D
+1193,50,Wisconsin,21-May,D
+1194,50,Wisconsin,21-Jun,D
+1195,50,Wisconsin,21-Jul,D
+1196,50,Wisconsin,21-Aug,D
+1197,50,Wisconsin,21-Sep,D
+1198,50,Wisconsin,21-Oct,D
+1199,50,Wisconsin,21-Nov,D
+1200,50,Wisconsin,21-Dec,D
+1201,51,Wyoming,20-Jan,R
+1202,51,Wyoming,20-Feb,R
+1203,51,Wyoming,20-Mar,R
+1204,51,Wyoming,20-Apr,R
+1205,51,Wyoming,20-May,R
+1206,51,Wyoming,20-Jun,R
+1207,51,Wyoming,20-Jul,R
+1208,51,Wyoming,20-Aug,R
+1209,51,Wyoming,20-Sep,R
+1210,51,Wyoming,20-Oct,R
+1211,51,Wyoming,20-Nov,R
+1212,51,Wyoming,20-Dec,R
+1213,51,Wyoming,21-Jan,R
+1214,51,Wyoming,21-Feb,R
+1215,51,Wyoming,21-Mar,R
+1216,51,Wyoming,21-Apr,R
+1217,51,Wyoming,21-May,R
+1218,51,Wyoming,21-Jun,R
+1219,51,Wyoming,21-Jul,R
+1220,51,Wyoming,21-Aug,R
+1221,51,Wyoming,21-Sep,R
+1222,51,Wyoming,21-Oct,R
+1223,51,Wyoming,21-Nov,R
+1224,51,Wyoming,21-Dec,R
